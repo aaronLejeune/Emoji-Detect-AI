@@ -18,7 +18,7 @@ Je kan 1001 dingen (laten) bouwen met een AI. Van software die kleren kunnen cat
      - machine learning module
      
 ### Gebruikte Methodes:
-##### Start
+#### Imports
 1. Importeren van de verschillende Libs
 ```
 from __future__ import absolute_import, division, print_function, unicode_literals
@@ -45,7 +45,7 @@ data = keras.datasets.fashion_mnist
 (train_images, train_labels), (test_images, test_labels) = data.load_data()
 ```
 
-##### Label Data
+#### Label Data
 ```
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
