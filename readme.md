@@ -23,7 +23,6 @@ Je kan 1001 dingen (laten) bouwen met een AI. Van software die kleren kunnen cat
 <<<<<<< HEAD
 Een AI maken van scratch is bijna onmoglijk. Gelukkig hebben we de bekende AI library van Tenserflow (gemaakt door Google) die het mogelijk maakt om 'vrij eenvoudig' een AI te maken. Daarnaast importeren we ook Keras die ons eigenlijk allemaal datasets geeft om mee te werken. Een dataset is eigenlijk een database van je onderwerp. Wil je een AI maken die kledingstukken kan detecteren? Dan gebruik je een dataset met daarin allemaal afbeeldingen van kleren met hun bijhorende naam.
 =======
->>>>>>> b9ca029c3de2b61affbee3b31addeb532a5fe324
 ```
 from __future__ import absolute_import, division, print_function, unicode_literals
 
@@ -40,7 +39,6 @@ import matplotlib.pyplot as plt
 <<<<<<< HEAD
 Hier printen we gewoon de versie uit van de libs die we gebruiken. Dit is een simpele manier om te valideren dat de installatie geslaagd is.
 =======
->>>>>>> b9ca029c3de2b61affbee3b31addeb532a5fe324
 ```
 print(tf.__version__)
 print(np.__version__)
@@ -50,7 +48,6 @@ print(np.__version__)
 <<<<<<< HEAD
 Zoals eerder al besproken zorgt Keras voor datasets. ['Op de website van Keras'](https://keras.io/examples/mnist_dataset_api/) kan je kiezen tussen allemaal verschillende datasets en tutorials van hoe je API het best kan gebruiken. In het stukje code hieronder importeren we dus 1 bepaalde dataset en delen we die dataset op in TRAIN en TEST data.
 =======
->>>>>>> b9ca029c3de2b61affbee3b31addeb532a5fe324
 ```
 data = keras.datasets.fashion_mnist
 
@@ -61,7 +58,6 @@ TRAIN data is meestal ongeveer 3/4de van je hele dataset en zoals het woord lett
 
 Het is belangrijk om TRAIN en TEST data uit een te haen. Stel je voor dat je leert voor een examen. De docent heeft perongeluk de echte examenvragen tussen de oefening gestoken. Een AI mag niet weten wat de examenvragen kunnen zijn, anders zou het natuurlijk veel hogere resulataten halen dan het eigenlijk kan.
 =======
->>>>>>> b9ca029c3de2b61affbee3b31addeb532a5fe324
 
 #### Label Data
 ```
@@ -78,4 +74,3 @@ Ondanks al die bronnen van informatie vind ik het bijna onmogelijk om een eigen 
 
 Komt dit omdat de technologie nog zo nieuw is, of zou het eerder liggen aan de stijle 'learn curve' van AI? Ik zou hier helaas nog geen antwoord op kunnen geven.
 =======
->>>>>>> b9ca029c3de2b61affbee3b31addeb532a5fe324
