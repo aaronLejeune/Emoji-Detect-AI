@@ -129,7 +129,7 @@ Helaas was dit niet het geval :/
 
  Dit is natuurlijk nog geen reden om op te geven. Ik googelde dan maar: 'make custom dataset' maar het had geen zin. Nergens vond ik een duidelijke guide of totorial die me kon uitleggen hoe ik een eigen .CSV file kon maken.
 
- > De moed zakte wat in de schoenen maar ik had een goede tutorial gevonden van hoe je via je webcam emoties kon aflezen. Helaas moest je €500 betalen voor deze dataset te kunnen gebruiken en ik ben ocharme toch zo'n arme student.
+ > De moed zakte wat in de schoenen maar ik had een goede tutorial gevonden van hoe je via je webcam emoties kon aflezen. Helaas moest je €500 betalen voor deze dataset te kunnen gebruiken en ik ben ocharme toch zo'n arme student. :cry:
 
 
 # :checkered_flag: Conclusie
