@@ -138,3 +138,7 @@ AI is een hele mooie technolgie. Ik ben er zeker van dat toepassingen met AI in 
 Ondanks al die bronnen van informatie vind ik het bijna onmogelijk om een eigen toepassing met AI te maken. We kunnen allemaal een tutorial letterlijk volgen of git's clonen maar als je echt wil dieper duiken in de customization van AI, val je (vind ik) in een groot zwart gat. Je stoot op problemen die precies niemand anders heeft en zoek je naar een simpele functie, is het soms uren zoeken in sober uitgelegde docs. 
 
 Komt dit omdat de technologie nog zo nieuw is, of zou het eerder liggen aan de stijle 'learn curve' van AI? Ik zou hier helaas nog geen antwoord op kunnen geven.
+
+[handige link voor het begrijpen  - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=6g4O5UOH304&t=4236s)
+
+[Backup plan- Realtime Emotion Analysis Using Keras](https://www.youtube.com/watch?v=DtBu1u5aBsc&t=473s)
