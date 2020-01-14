@@ -21,7 +21,7 @@ Je kan 1001 dingen (laten) bouwen met een AI. Van software die kleren kunnen cat
 #### Imports
 1. Importeren van de verschillende Libs
 
-Een AI maken van scratch is bijna onmoglijk. Gelukkig hebben we de bekende AI library van Tenserflow (gemaakt door Google) die het mogelijk maakt om 'vrij eenvoudig' een AI te maken. Daarnaast importeren we ook Keras die ons eigenlijk allemaal datasets geeft om mee te werken. Een dataset is eigenlijk een database van je onderwerp. Wil je een AI maken die kledingstukken kan detecteren? Dan gebruik je een dataset met daarin allemaal afbeeldingen van kleren met hun bijhorende naam.
+>>Een AI maken van scratch is bijna onmoglijk. Gelukkig hebben we de bekende AI library van Tenserflow (gemaakt door Google) die het mogelijk maakt om 'vrij eenvoudig' een AI te maken. Daarnaast importeren we ook Keras die ons eigenlijk allemaal datasets geeft om mee te werken. Een dataset is eigenlijk een database van je onderwerp. Wil je een AI maken die kledingstukken kan detecteren? Dan gebruik je een dataset met daarin allemaal afbeeldingen van kleren met hun bijhorende naam.
 
 ```
 from __future__ import absolute_import, division, print_function, unicode_literals
@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 
 2. Valideren of de import gelukt is:
 
-Hier printen we gewoon de versie uit van de libs die we gebruiken. Dit is een simpele manier om te valideren dat de installatie geslaagd is.
+>Hier printen we gewoon de versie uit van de libs die we gebruiken. Dit is een simpele manier om te valideren dat de installatie geslaagd is.
 
 ```
 print(tf.__version__)
@@ -46,7 +46,7 @@ print(np.__version__)
 
 3. Importeren + laden test datasets (keras fashion_mnist)
 
-Zoals eerder al besproken zorgt Keras voor datasets. ['Op de website van Keras'](https://keras.io/examples/mnist_dataset_api/) kan je kiezen tussen allemaal verschillende datasets en tutorials van hoe je API het best kan gebruiken. In het stukje code hieronder importeren we dus 1 bepaalde dataset en delen we die dataset op in TRAIN en TEST data.
+>Zoals eerder al besproken zorgt Keras voor datasets. ['Op de website van Keras'](https://keras.io/examples/mnist_dataset_api/) kan je kiezen tussen allemaal verschillende datasets en tutorials van hoe je API het best kan gebruiken. In het stukje code hieronder importeren we dus 1 bepaalde dataset en delen we die dataset op in TRAIN en TEST data.
 
 ```
 data = keras.datasets.fashion_mnist
