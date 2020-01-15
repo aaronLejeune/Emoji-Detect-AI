@@ -1,7 +1,7 @@
 # Proof of concept :thought_balloon:
 ###### :boy: Aaron Lejeune
 
-[slide deck](https://docs.google.com/presentation/d/1WrbTrKgZD-McyKtD8BvaVnMMyVbe82zXPe5iC77b3Ag/edit?usp=sharing)
+## [slide deck](https://docs.google.com/presentation/d/1WrbTrKgZD-McyKtD8BvaVnMMyVbe82zXPe5iC77b3Ag/edit?usp=sharing)
 
 ## Table of contents
 1. Samenvatting
